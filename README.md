@@ -1,4 +1,5 @@
 Hey! I'm 𝓑𝓔𝓐𝓣𝓡𝓘𝓩 👩‍💻
+
 ☺ Currently studying 2º DAW (Web Application Development).
 
 ⌨︎ Balancing my professional growth while working in the fitness industry.
