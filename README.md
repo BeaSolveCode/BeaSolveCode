@@ -6,7 +6,6 @@
 ### ☞ About Me
 - ❀ Currently finishing my studies in **Web Application Development**.
 - ❀ Balancing professional growth at a gymnasium with my career in tech.
-- ❀ I love creating functional things and solving complex problems through code.
 - ❀ **Reach me at:** [martinbeamarta@gmail.com](mailto:martinbeamarta@gmail.com)
 
 ---
