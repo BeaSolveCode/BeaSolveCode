@@ -1,21 +1,39 @@
-# Hey! I'm Beatriz 👋
+# Hey! I'm Beatriz Pérez 👋
 
-> **2nd year Web Application Development (DAW) student** 🚀  
-> Combining the discipline of the fitness industry with a passion for creative coding.
-
-### ☞ About Me
-- ❀ Currently finishing my studies in **Web Application Development**.
-- ❀ Balancing professional growth at a gymnasium with my career in tech.
-- ❀ **Reach me at:** [martinbeamarta@gmail.com](mailto:martinbeamarta@gmail.com)
+> **Full-Stack Web Developer** 🚀  
+> Combining software engineering with the discipline and consistency of sports background.
 
 ---
 
-### ☞ Tools & Tech Stack
+### 💻 Tech Stack
 
 **Backend & Databases**
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Frontend**
-- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    
+**Frontend & Tools**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### ☞ About Me
+
+- 🎓 Graduated in **Web Application Development (DAW)**.
+- 🏋️‍♀️ Weekend Fitness Instructor — applying high energy, leadership, and time management into software development.
+- 🎯 Currently focused on building scalable Full-Stack applications using **Spring Boot & Angular**.
+- 📬 **Reach me at:** [martinbeamarta@gmail.com](mailto:martinbeamarta@gmail.com)
+
+---
+
+### 📌 Featured Projects
+
+* **[REPEAT](https://github.com/tu-usuario/tu-repo-repeat)** — Full-Stack Web Application built with Spring Boot, Angular, and PostgreSQL.
+* **[GymPass](https://github.com/tu-usuario/tu-repo-gympass)** — Web system for managing access and gym operations using Spring Boot, Angular, and MySQL.
