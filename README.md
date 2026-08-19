@@ -36,4 +36,4 @@
 ### 📌 Featured Projects
 
 * **[REPEAT](https://github.com/BeaSolveCode/REP-EAT-APP)** — Full-Stack Web Application built with Spring Boot, Angular, and PostgreSQL.
-* **[GymPass](https://github.com/tu-usuario/tu-repo-gympass)** — Web system for managing access and gym operations using Spring Boot, Angular, and MySQL.
+* **[GymPass](https://github.com/BeaSolveCode/GYM-PASS)** — Web system for managing access and gym operations using Spring Boot, Angular, and MySQL.
