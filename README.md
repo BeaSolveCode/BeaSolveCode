@@ -35,5 +35,5 @@
 
 ### 📌 Featured Projects
 
-* **[REPEAT](https://github.com/tu-usuario/tu-repo-repeat)** — Full-Stack Web Application built with Spring Boot, Angular, and PostgreSQL.
+* **[REPEAT](https://github.com/BeaSolveCode/REP-EAT-APP)** — Full-Stack Web Application built with Spring Boot, Angular, and PostgreSQL.
 * **[GymPass](https://github.com/tu-usuario/tu-repo-gympass)** — Web system for managing access and gym operations using Spring Boot, Angular, and MySQL.
